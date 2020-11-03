@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c94ff999b0fe42b49564bd33315bbe7, type: 3}
+  m_Name: LayoutConfig
+  m_EditorClassIdentifier: 
+  figureIDs:
+  - row:
+    - 5
+    - 2
+    - 0
+    - 4
+    - 1
+    - 0
+    - 2
+    - 5
+  - row:
+    - 3
+    - 3
+    - 3
+    - 3
+    - 3
+    - 3
+    - 3
+    - 3
+  - row:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - row:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - row:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - row:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+  - row:
+    - 9
+    - 9
+    - 9
+    - 9
+    - 9
+    - 9
+    - 9
+    - 9
+  - row:
+    - 11
+    - 8
+    - 6
+    - 10
+    - 7
+    - 6
+    - 8
+    - 11
